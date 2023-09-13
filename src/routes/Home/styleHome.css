@@ -1,18 +1,18 @@
 
 main {
     text-align:center;
-    background-color:#a22c27;
+    background-color:#0c09b6;
     padding: 20px;
-    color:#fafafa
+    color:#ffff
   }
   
   main h1 {
     font-size: 36px;
-    color:#ebd592;
+    color:#ffff;
   }
   
   .home-section {
-    border: 2px solid #333;
+    border: 2px solid #0c09b6;
     padding: 20px;
     margin: 20px;
   }
