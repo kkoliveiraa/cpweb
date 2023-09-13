@@ -1,0 +1,18 @@
+
+main {
+    text-align:center;
+    background-color:#a22c27;
+    padding: 20px;
+    color:#fafafa
+  }
+  
+  main h1 {
+    font-size: 36px;
+    color:#ebd592;
+  }
+  
+  .home-section {
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 20px;
+  }

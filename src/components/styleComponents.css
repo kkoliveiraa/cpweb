@@ -1,0 +1,13 @@
+
+  .menu {
+    background-color:#4f2621;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
